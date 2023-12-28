@@ -1,26 +1,66 @@
-<h1 align="center">Hi 👋, I'm Joshua Taylor</h1>
+<img align="right"  src="https://komarev.com/ghpvc/?username=j0taylor6&label=Profile%20views&color=0e75b6&style=flat" alt="j0taylor6" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joshua+Taylor!;" />
+</h1>
+
 <h3 align="center">A-Level student Interested in Software Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j0taylor6&label=Profile%20views&color=0e75b6&style=flat" alt="j0taylor6" /> </p>
+<br/>
 
-- 🔭 I’m currently working on **Automatic Reddit Story Generator**
+<div align="center">
+ 
+ 🔭 I’m currently working on **Automatic Reddit Story Generator**
+ 
+ 🌱 I’m currently learning Python and AWS**
 
-- 🌱 I’m currently learning **Python, and AWS**
+💬 Ask me about **Anything!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/j0taylor6?tab=repositories](https://github.com/j0taylor6?tab=repositories)
+ </div>
+ 
+<div align="center"> 
+  <a href="joshualtaylor06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/joshualtaylor06" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 💬 Ask me about **Anything!**
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,ps,aws" /><br>
+</div>
 
-- 📫 How to reach me **joshualtaylor06@gmail.com**
+<br/>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joshualtaylor06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshualtaylor06" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/j0taylor6/j0taylor6/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0taylor6&show_icons=true&locale=en&layout=compact" alt="j0taylor6" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=j0taylor6&show_icons=true&locale=en&layout=compact" alt="j0taylor6"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=j0taylor6&show_icons=true&locale=en" alt="j0taylor6"/>
+  <br/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j0taylor6&show_icons=true&locale=en" alt="j0taylor6" /></p>
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<br/>
