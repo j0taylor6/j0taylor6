@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Automatic Reddit Story Generator**
+🔭 I’m currently working on **Automatic Reddit Story Generator**
  
- 🌱 I’m currently learning Python and AWS**
+🌱 I’m currently learning **Python and AWS**
 
 💬 Ask me about **Anything!**
 
@@ -32,8 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,ps,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,vscode,github,git,python,c,ps,aws" />
 </div>
 
 <br/>
