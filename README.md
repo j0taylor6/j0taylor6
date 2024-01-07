@@ -62,9 +62,9 @@
   
 
 <br/>  
-
-<div align="center">
   <h2>My Contributions</h2>
+<div align="center">
+
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/j0taylor6/j0taylor6/output/github-contribution-grid-snake.svg" />  
   <br/><br/><br/>
