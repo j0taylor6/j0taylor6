@@ -18,17 +18,39 @@
 # <div align="center"></div>  
   
 
-- 🔭 I’m currently working on **Automatic Reddit Story Generator**  
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on Automatic Reddit Story Generator
+  
   
 
-- 🌱 I’m currently learning **Python and AWS**  
+- 🌱 I’m currently learning Python and AWS  
   
 
-- ❓ Ask me about anything related to **programming**  
+- ❓ Ask me about anything related to coding  
   
 
-- ⚡ Fun fact: **I'm looking for a degree apprenticeship**  
+- ⚡ Fun fact: looking to be a degree apprentice  
   
+
+- 📫 How to reach me joshualtaylor06@gmail.com
+
+  
+  
+
+  
+
+
+</td><td valign="top" width="50%">
+
+<div align="right">
+<img src="https://i.imgur.com/bg2GkEW.png" align="right" height="350" width="350" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -61,6 +83,7 @@
 </div>  
   
 
+
 <br/>  
   <h2>My Contributions</h2>
 <div align="center">
@@ -71,12 +94,13 @@
 </div>
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=j0taylor6&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0taylor6&hide_border=true&layout=compact" align="left" />  
-
 <br/>  
 
 
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=j0taylor6&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0taylor6&hide_border=true&layout=compact" align="left" />
 <br />
