@@ -34,12 +34,7 @@
 
 - ⚡ Fun fact: looking to be a degree apprentice  
   
-
-- 📫 How to reach me joshualtaylor06@gmail.com
-
   
-  
-
   
 
 
