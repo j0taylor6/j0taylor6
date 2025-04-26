@@ -8,10 +8,9 @@
 </div>  
   
 
-### <div align="center">👋 Hello! I'm Joshua Taylor</div>  
+### <div align="center">👋 Hello! I'm Josh Taylor</div>  
   
 
-### <div align="center">A-Level student Interested in Software Engineering.
 </div>  
   
 
