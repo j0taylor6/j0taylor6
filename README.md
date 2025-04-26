@@ -19,7 +19,8 @@
 
 <br/>  
 
-- 🔭 I’m a fullstack Engineer.
+- I’m a fullstack Engineer.
+- Might work on some side projects, we will see.
 
 
 
@@ -31,9 +32,10 @@
 ## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,spring,html,css,js,ts,angular,gcp,go" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,spring,html,css,js,ts,angular,gcp,go,ps,robloxstudio,bootstrap,git,rust" />
   </a>
 </p>
+
 
 
 <br/>  
