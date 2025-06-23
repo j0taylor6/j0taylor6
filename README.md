@@ -1,10 +1,4 @@
 
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=j0taylor6&&style=flat-square" align="right" />
-</div>  
-  
-
 ### <div align="center">👋 Hello! I'm Josh Taylor</div>  
   
 
